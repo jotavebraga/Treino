@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+    font-family: courier;
+  }
+  
+  h1 {
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 5px;
+    background-color: rgb(25, 76, 172);
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .paragrafo-estilizado {
+      font-size: 25px;
+      font-family:'Courier'; 
+    }
+
+    .lista-estilizada {
+      font-size: 15px ;
+    }
+
+    #section1 {
+        width:auto;
+        padding: auto;
+        margin: auto;
+        
+    }
+    #header {
+        padding: ;
+        text-align: center;
+    }
+    .nav-header a {
+        color: black;
+    }
+    .nav-header li {
+        display: inline-block;
+        gap: 20px;
+    }
+
+    .nav-header a:hover {
+        color: white;
+    }
+
+    #apresentacao {
+        margin-bottom: 35px;
+    }
+
+    .apresentacao-contain {
+        display: inline-block;
+        width: 45%;
+        text-align: center;
+        margin: auto;
+    }
+    .apresentacao-contain img {
+        padding: 10px;
+        background-color: black;
+    }
+
+    #section3 {
+        margin-left: 20px;
+    }
+
+    #header-footer {
+        margin-top: 15px;
+    }
+
+
