@@ -60,11 +60,21 @@ body {
         display: inline-block;
         width: 45%;
         text-align: center;
-        margin: auto;
+        /* margin-right: 30px; */
+        vertical-align: middle;
     }
     .apresentacao-contain img {
         padding: 10px;
         background-color: black;
+        margin-left: 500px;
+    }
+
+    .apresentacao-contain p {
+        margin-right: 100px;
+    }
+
+    .apresentacao-contain h4 {
+        margin-right: 100px;
     }
 
     #section3 {
