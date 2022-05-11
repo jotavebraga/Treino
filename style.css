@@ -84,4 +84,18 @@ body {
         margin-top: 15px;
     }
 
+    #lista-habilidades {
+        margin-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    .impar  {
+        color: rgba(30, 34, 48, 0.699);
+    }
+
+    #footer {
+        text-align: center;
+        padding-top:20px ;
+    }
+
 
