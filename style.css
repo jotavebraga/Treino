@@ -63,9 +63,8 @@ body {
         vertical-align: middle;
     }
     .apresentacao-contain img {
-        padding: 10px;
-        background-color: black;
         margin-left: 500px;
+        border: 5px solid black;
     }
 
     .apresentacao-contain p {
